@@ -9,10 +9,6 @@
 
 - 📄Connect on Linkedin [https://www.linkedin.com/in/saumya-shah-326537252/](https://www.linkedin.com/in/saumya-shah-326537252/)
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saumya-shah-326537252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saumya-shah-326537252/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.yUIb5S_kj98Eg5tT-Onx1AHaHa?w=162&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.sxgAuWLSIvPXh0cZ2bmQvgHaIj?w=164&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.3pbn96F_IFdhSmJ1MaRe9AHaKN?pid=ImgDet&rs=1g" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.vD5O0cGtIr0y-S6blOX8vAHaC_?w=309&h=141&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.scZtKzM0T-sPYZxYBAJvRAHaIO?w=158&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="python" width="40" height="40"/> </a> </p>
 
