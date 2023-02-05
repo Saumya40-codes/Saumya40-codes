@@ -3,7 +3,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" al="nerd coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" /> </p>
 
-- 🌱 I’m currently learning **Java, Python (will be starting on with Django Framework soon), CSS and HTML**
+- 🌱 I’m currently learning **Java, Python ,Flask Framework of Python, CSS and HTML**
 
 - 📫 How to reach me **saumyab5181@gmail.com**
 
