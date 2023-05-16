@@ -3,7 +3,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" al="nerd coding" id="nerd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" /> </p>
 
-- 🌱 I’m currently learning **Java, Python ,Flask, Django, CSS and HTML**
+- 🌱 I’m currently learning **Java, Python ,Flask, Django, Javascript, CSS and HTML**
 - 🎓 Currently Studying B.Tech in Computer Science and Engineering at Ahmedabad University 
 - 📫 How to reach me **saumyab5181@gmail.com**
 
@@ -17,5 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumya40-codes&show_icons=true&locale=en" alt="saumya40-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya40-codes&" alt="saumya40-codes" /></p>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya40-codes&" alt="saumya40-codes" /> </p>
+
+
+<p> <a href="https://wakatime.com"><img class="waka" width = "100%" height="400px" src="https://wakatime.com/share/@815bd657-1e55-46b5-8f92-b98ad55fc354/736ea998-1cf0-4d26-bb9b-92e0680269ad.png" /></a> </p>
