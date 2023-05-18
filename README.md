@@ -18,6 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumya40-codes&show_icons=true&locale=en" alt="saumya40-codes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya40-codes&" alt="saumya40-codes" /> </p>
-
-
-<p> <a href="https://wakatime.com"><img class="waka" width = "100%" height="400px" src="https://wakatime.com/share/@815bd657-1e55-46b5-8f92-b98ad55fc354/736ea998-1cf0-4d26-bb9b-92e0680269ad.png" /></a> </p>
