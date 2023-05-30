@@ -8,6 +8,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" />
 </p>
+<p align = "left">
+ <a href="https://wakatime.com/@815bd657-1e55-46b5-8f92-b98ad55fc354"><img src="https://wakatime.com/badge/user/815bd657-1e55-46b5-8f92-b98ad55fc354.svg" alt="Total time coded since May 4 2023" /></a>
+</p>
 
 <ul align="left">
   <li>🌱 I’m currently learning <strong>Java, Python, Flask, Django, JavaScript, CSS, and HTML</strong></li>
