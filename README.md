@@ -56,8 +56,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical" alt="Top Langs" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saumya40-codes&show_icons=true&locale=en" alt="saumya40-codes" />
