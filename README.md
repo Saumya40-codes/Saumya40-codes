@@ -2,15 +2,8 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" alt="nerd coding" id="nerd">
 </div>
-
+<br />
 <div align="center">
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" />
-</p>
-<p align = "left">
- <a href="https://wakatime.com/@815bd657-1e55-46b5-8f92-b98ad55fc354"><img src="https://wakatime.com/badge/user/815bd657-1e55-46b5-8f92-b98ad55fc354.svg" alt="Total time coded since May 4 2023" /></a>
-</p>
-
 <ul align="left">
   <li>🌱 I’m currently learning <strong>tRPC, Redis, Prisma and GraphQL</strong></li>
   <li>🎓 Currently studying B.Tech in Computer Science and Engineering at Ahmedabad University</li>
@@ -21,8 +14,8 @@
   📄 Connect on Linkedin: <a href="https://www.linkedin.com/in/saumya-shah-326537252/">https://www.linkedin.com/in/saumya-shah-326537252/</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
   </a>
@@ -56,15 +49,21 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>
+  </a>
 </p>
-
-
-<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
+  
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saumya40-codes&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22)
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saumya40-codes" alt="saumya40-codes" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" />
+<a href="https://wakatime.com/@815bd657-1e55-46b5-8f92-b98ad55fc354"><img src="https://wakatime.com/badge/user/815bd657-1e55-46b5-8f92-b98ad55fc354.svg" alt="Total time coded since May 4 2023" /></a>
