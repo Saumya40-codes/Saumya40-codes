@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saumya Shah</h1>
-<h3 align="center">Curious person towards the field of Computer Science</h3>
-
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" alt="nerd coding" id="nerd">
 </div>
 
+<div align="center">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" />
 </p>
@@ -13,7 +12,7 @@
 </p>
 
 <ul align="left">
-  <li>🌱 I’m currently learning <strong>Java, Python, Flask, Django, JavaScript, CSS, and HTML</strong></li>
+  <li>🌱 I’m currently learning <strong>tRPC, Redis, Prisma and GraphQL</strong></li>
   <li>🎓 Currently studying B.Tech in Computer Science and Engineering at Ahmedabad University</li>
   <li>📫 How to reach me: <strong>saumyab5181@gmail.com</strong></li>
 </ul>
