@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical&hide=jupyter%20notebook" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical&hide=jupyter%20notebook,html" alt="Top Langs" />
   
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saumya40-codes&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22)
 
