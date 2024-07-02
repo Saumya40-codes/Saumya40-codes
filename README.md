@@ -9,7 +9,7 @@
 <ul align="left">
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering at Ahmedabad University</li>
   <li>💻 Enjoy building full-stack and backend applications</li>
-  <li>📫 Reach me at: <strong>saumyab5181@gmail.com</strong></li>
+  <li>📫 Reach me at: <a href="mailto:saumyab5181@gmail.com" ><strong>saumyab5181@gmail.com</strong></li></a>
 </ul>
 
 <p align="left">
