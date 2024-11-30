@@ -2,7 +2,7 @@
 <ul align="left">
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering at Ahmedabad University</li>
   <li>💻 Enjoy building full-stack and backend applications</li>
-  <li>📫 Reach me at: <a href="mailto:saumyab5181@gmail.com" ><strong>saumyab5181@gmail.com</strong></li></a>
+  <li>📫 Mail me from: <a href="mailto:saumya40.imp@gmail.com"><strong>here</strong></li></a>
 </ul>
 <p align="left">
   📄 Connect on LinkedIn: <a href="https://www.linkedin.com/in/saumya-shah-326537252/">Saumya Shah</a>
