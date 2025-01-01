@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Saumya Shah</h1>
-<ul align="left">
-  <li>🎓 Pursuing B.Tech in Computer Science and Engineering at Ahmedabad University</li>
-  <li>💻 Enjoy building full-stack and backend applications</li>
-  <li>📫 Mail me from: <a href="mailto:saumya40.imp@gmail.com"><strong>here</strong></li></a>
-</ul>
+<h1>Hi 👋, I'm Saumya Shah</h1>
 <p align="left">
-  📄 Connect on LinkedIn: <a href="https://www.linkedin.com/in/saumya-shah-326537252/">Saumya Shah</a>
+  📫 Mail me from: <a href="mailto:saumya40.imp@gmail.com"><strong>here</strong></a>
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-shah-326537252)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/Saumya_Codes)
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,react&perline=6" />
