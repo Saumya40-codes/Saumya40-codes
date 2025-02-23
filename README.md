@@ -6,16 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-shah-326537252)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/Saumya_Codes)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,react&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,nodejs,express,nextjs,mongodb,mysql&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,rabbitmq,aws&perline=6" />
-</p>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical&hide=jupyter%20notebook,html&layout=compact" alt="Top Langs" />
