@@ -18,3 +18,6 @@
   <a href="https://wakatime.com/@815bd657-1e55-46b5-8f92-b98ad55fc354"><img src="https://wakatime.com/badge/user/815bd657-1e55-46b5-8f92-b98ad55fc354.svg" alt="Total time coded since May 4 2023" /></a>
 </p>
 <h3 align="center">🚀 I love learning about distributed systems 🚀</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
