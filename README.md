@@ -7,9 +7,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/Saumya_Codes)
 
 <h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya40-codes&theme=radical&hide=jupyter%20notebook,html&layout=compact" alt="Top Langs" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saumya40-codes&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22" alt="Saumya's GitHub stats" />
 </p>
@@ -17,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" />
   <a href="https://wakatime.com/@815bd657-1e55-46b5-8f92-b98ad55fc354"><img src="https://wakatime.com/badge/user/815bd657-1e55-46b5-8f92-b98ad55fc354.svg" alt="Total time coded since May 4 2023" /></a>
 </p>
-<h3 align="center">🚀 I love learning about distributed systems 🚀</h3>
 
 <!--START_SECTION:waka-->
 
