@@ -6,6 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-shah-326537252)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/Saumya_Codes)
 
+
+Checkout my [blogs](https://saumya-shah.vercel.app/blogs) 
+
 <h3 align="center">GitHub Stats:</h3>
 
 <p align="center">
