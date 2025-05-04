@@ -22,11 +22,11 @@ Checkout my [blogs](https://saumya-shah.vercel.app/blogs)
 <!--START_SECTION:waka-->
 
 ```txt
-C            6 hrs           █████████░░░░░░░░░░░░░░░░   35.99 %
-TypeScript   4 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Go           2 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-JSON         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Makefile     1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+C            6 hrs           ████████▓░░░░░░░░░░░░░░░░   34.57 %
+TypeScript   4 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Go           3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+JSON         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Makefile     1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
