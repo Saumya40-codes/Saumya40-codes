@@ -22,11 +22,11 @@ Checkout my [blogs](https://saumya-shah.vercel.app/blogs)
 <!--START_SECTION:waka-->
 
 ```txt
-Go                20 hrs 39 mins  ████████████████████▒░░░░   81.40 %
-Bash              2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Protocol Buffer   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-TypeScript        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-YAML              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Go                15 hrs 49 mins  ████████████████████░░░░░   79.56 %
+Bash              2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Protocol Buffer   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Lua               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+TypeScript        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
