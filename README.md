@@ -18,12 +18,3 @@ Checkout my [blogs](https://saumya-shah.vercel.app/blogs)
   <img src="https://komarev.com/ghpvc/?username=saumya40-codes&label=Profile%20views&color=0e75b6&style=flat" alt="saumya40-codes" />
   <a href="https://wakatime.com/@815bd657-1e55-46b5-8f92-b98ad55fc354"><img src="https://wakatime.com/badge/user/815bd657-1e55-46b5-8f92-b98ad55fc354.svg" alt="Total time coded since May 4 2023" /></a>
 </p>
-
-<!--START_SECTION:waka-->
-
-```txt
-Go     3 hrs 31 mins   ████████████████████████▓   98.47 %
-Text   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-```
-
-<!--END_SECTION:waka-->
